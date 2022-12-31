@@ -1,0 +1,13 @@
+chess15
+chess15.algorithm
+chess15.engine
+chess15.gamemode
+chess15.gamemodes
+chess15.gui
+chess15.gui.controllers
+chess15.gui.images
+chess15.gui.interfaces
+chess15.gui.scenes
+chess15.gui.sounds
+chess15.gui.util
+chess15.util
